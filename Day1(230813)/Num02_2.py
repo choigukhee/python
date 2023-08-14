@@ -1,3 +1,5 @@
+#02_2 문자열 자료형
+
 memo = '''hi
 my name is
 choigukhee'''
