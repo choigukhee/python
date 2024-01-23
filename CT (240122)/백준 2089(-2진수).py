@@ -1,5 +1,5 @@
 import sys
-
+f
 def divide(n, ans):
   if n == 0:
     ans.append(0)
